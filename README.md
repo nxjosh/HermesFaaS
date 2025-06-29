@@ -49,7 +49,7 @@ If you intend to run untrusted code, isolate the HermesFaaS runtime itself, for 
 
 
 ### Socials
-I regularly post project updates on socials.  You can also check out [YypeFire](https://typefire.dev) for zero-cost abstractions in TypeScript and [VibesDB](https://github.com/nxjosh/vibesDB)
+I regularly post project updates on socials.  You can also check out [TypeFire](https://typefire.dev) for zero-cost abstractions in TypeScript and [VibesDB](https://github.com/nxjosh/vibesDB)
 - X [@JoshCaughtFire](https://x.com/JoshCaughtFire)
 - Bluesky [nxjosh.bsky.social](https://bsky.app/profile/nxjosh.bsky.social)
 - Threads [@joshcatchingfire](https://www.threads.com/@joshcatchingfire)
